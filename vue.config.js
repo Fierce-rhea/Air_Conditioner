@@ -3,6 +3,6 @@ module.exports = {
     'vuetify'
   ],
   publicPath: '/Air_Conditioner/',
-  outputDir: 'dist',
+  outputDir: 'docs',
   assetsDir: 'static'
 }
